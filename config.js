@@ -27,5 +27,5 @@ PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJ
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///=================When editing, do not accidentally delete anything !!ALIVE-CONFIG================================
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/gdvaaw.jpg", //add alive img url
-ALIVE_MSG: process.env.ALIVE_MSG || "HI AME A WHATSAPP BOT CREATED BY MALVIN", //add alive msg
+ALIVE_MSG: process.env.ALIVE_MSG || "HI AME A WHATSAPP BOT CREATED BY NADU-BOT", //add alive msg
 };
